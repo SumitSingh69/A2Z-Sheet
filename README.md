@@ -11,3 +11,7 @@ Question 3: Binary Tree Postorder Traversal(recursive way)
 <br>
 Question 4: Binary Tree Level Order Traversal
 <br>
+Question 5: Iterative Preorder Traversal of Binary Tree
+<br>
+Question 6: Iterative Inorder Traversal of Binary Tree
+<br>
